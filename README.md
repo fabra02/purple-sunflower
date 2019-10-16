@@ -28,7 +28,7 @@ The content of this site is managed by Forestry. Visit [https://forestry.io](htt
 
         npx @stackbit/stackbit-pull --stackbit-pull-api-url=https://api.stackbit.com/pull/5da7515fc9b47c0019bbb553
 
-1. Build the site and make it available on a local server
+1. Build the site and make it available on a local server LOL
 
         bundle exec jekyll serve
 
